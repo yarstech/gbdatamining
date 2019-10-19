@@ -14,3 +14,4 @@ with open('weather.json', 'w') as j_file:
 
 pass
 
+
